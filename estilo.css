@@ -1,0 +1,49 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(images/bg-mobile.svg);
+}
+
+.card {
+    padding: 8%;
+    background-color: red;
+}
+
+.logo {
+    width: 45%;
+}
+
+.layout {
+    margin-top:15%;
+    width: 100%;
+}
+
+.info {
+    margin-top:15%;
+    text-align: center;
+    color: white;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 5%;
+}
+button {
+    font-family: 'Open Sans', sans-serif;
+    margin-top:8%;
+    border: none;
+    border-radius: 50px;
+    margin-left: 15%;
+    padding: 10px 70px;
+    color: hsl(257, 40%, 49%);
+}
+
+footer {
+    margin-top:10%;
+}
