@@ -10,7 +10,6 @@
 
 .card {
     padding: 8%;
-    background-color: red;
 }
 
 .logo {
@@ -46,4 +45,8 @@ button {
 
 footer {
     margin-top:10%;
+}
+
+.fa-facebook {
+    background-image: url(images/facebook-brands.svg);
 }
