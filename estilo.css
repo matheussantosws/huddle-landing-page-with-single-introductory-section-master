@@ -4,7 +4,7 @@
 }
 
 .container {
-    background-color: hsl(257, 40%, 49%);
+    background-color: hsl(257, 40%, 49%) ;
     background-image: url(images/bg-mobile.svg);
 }
 
@@ -41,14 +41,24 @@ button {
     margin-left: 6%;
     padding: 10px 70px;
     color: hsl(257, 40%, 49%);
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    background-color: white;
 }
-
+button:hover {
+    background-color:hsl(300, 69%, 71%);
+    color:white;   
+}
 footer {
     margin-top:10%;
     margin-left: 40%;
     color: white;
 }
-
+@media (min-width: 375px){
+    .container { 
+        background-image: url(images/bg-desktop.svg);
+    }
+}
 @media (min-width: 480px){
     footer {
         margin-left: 45%;
@@ -64,6 +74,8 @@ footer {
     
     .card {
         padding: 10%;
+    }
+    .logo {
     }
     .layout {
         width: 60%;
@@ -82,7 +94,7 @@ footer {
         margin-right: 15%;
     }
     button {
-        margin-left: -57%;
+        margin-left: -56%;
     }
     footer {
         margin-top: 10%;
