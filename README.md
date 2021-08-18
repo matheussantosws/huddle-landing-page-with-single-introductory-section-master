@@ -27,17 +27,18 @@ Usuários devem ser capazes de:
 - Ver estados de foco para elementos interativos
 
 ### Screenshot
-![Screenshot](assets/p)
+![Screenshot](assets/pint desktop)
+![Screenshot](assets/printmob)
+![Screenshot](assets/printmobcont)
 
 ### Links
 
-- URL do site online: [Live on Netlify](https://matheussantosws.github.io/order-summary-component-main/)
-- URL do site Youtube: [Live on Youtube](https://www.youtube.com/watch?v=Bxhbz7fjS5I)
+- URL do site online: [Live on Netlify](https://matheussantosws.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- URL do site Youtube: [Live on Youtube](https://youtu.be/6cEdujzaq6U)
 ### Construído com
 
 - Marcação semantica HTML5
 - Propriedade do CSS3
-- Flexbox
 - Abordagem Mobile-first
 
 ### O que eu aprendi
