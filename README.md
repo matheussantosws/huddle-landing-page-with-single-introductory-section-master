@@ -8,7 +8,6 @@ Essa é a solução para o desafio [huddle-landing-page-with-single-introductory
 
 - [Visão Geral](#visao-geral)
   - [O desafio](#o-desafio)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Construído com](#construido-com)
@@ -25,11 +24,6 @@ Usuários devem ser capazes de:
 
 - Veja o layout ideal, dependendo do tamanho da tela do dispositivo
 - Ver estados de foco para elementos interativos
-
-### Screenshot
-![Screenshot](assets/pint desktop)
-![Screenshot](assets/printmob)
-![Screenshot](assets/printmobcont)
 
 ### Links
 
