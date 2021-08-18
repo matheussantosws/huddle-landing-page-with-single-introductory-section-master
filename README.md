@@ -1,7 +1,8 @@
 # Order summary component
-![order-summary-component-main](https://user-images.githubusercontent.com/88622033/129453494-a55f8f94-9787-459d-9843-984b563fac1d.gif)
+![huddle-landing-page-with-single-introductory-section-master](https://user-images.githubusercontent.com/88622033/129952238-b2aa62b6-9b85-4185-ab7a-91839df590ee.gif)
 
-Essa é a solução para o desafio [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Os desafios de Frontend Mentor ajudam você a melhorar suas habilidades de programação por construir projetos realistas.
+
+Essa é a solução para o desafio [huddle-landing-page-with-single-introductory-section-master](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Os desafios de Frontend Mentor ajudam você a melhorar suas habilidades de programação por construir projetos realistas.
 
 ## Tabela de conteúdos
 
