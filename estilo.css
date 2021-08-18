@@ -54,6 +54,8 @@ footer {
     margin-left: 40%;
     color: white;
 }
+
+/*Media Querys Breakpoints*/
 @media (min-width: 375px){
     .container { 
         background-image: url(images/bg-desktop.svg);
@@ -79,6 +81,7 @@ footer {
         margin-top:-5%;
     }
     .layout {
+        margin-top: 4%;
         width: 60%;
         margin-left:-5%;
     }
